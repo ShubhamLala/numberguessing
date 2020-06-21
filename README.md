@@ -1,6 +1,6 @@
 Working :-
 
-![image](https://user-images.githubusercontent.com/42066791/85228694-93c02980-b402-11ea-946f-9229a615e80a.gif)
+![image](https://user-images.githubusercontent.com/42066791/85228769-2234ab00-b403-11ea-8c0f-f2fdccaf64d9.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
